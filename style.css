@@ -28,6 +28,7 @@ body{
 
 .container img{
     width: 14.5rem;
+    border-radius: 10px;
 }
 
 .container h2{
